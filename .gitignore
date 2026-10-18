@@ -13,3 +13,6 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# Local firmware extraction (about 18 GB), never commit
+ipsw_work/
