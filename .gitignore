@@ -1,0 +1,15 @@
+# Theos build output
+.theos/
+packages/
+obj/
+
+# Release artifacts are attached to GitHub Releases, not committed
+outputs/
+*.tipa
+*.ipa
+
+# Python / OS noise
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
